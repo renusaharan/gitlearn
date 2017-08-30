@@ -1,0 +1,9 @@
+BAse OS :Ubuntu
+apt-get update
+
+apt-get install git
+#initialise git repo
+git init
+#or you can make a clone from an existing repo on github
+git clone reponame
+
